@@ -1,0 +1,2 @@
+This is content from the source file.
+It will be appended to the destination file.
